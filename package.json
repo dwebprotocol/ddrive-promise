@@ -1,7 +1,7 @@
 {
-  "name": "@geut/hyperdrive-promise",
-  "version": "3.1.0",
-  "description": "An async/await based wrapper for hyperdrive (v10+)",
+  "name": "@dwebcore/ddrive-promise",
+  "version": "1.0.0",
+  "description": "Async/await wrapper for dDrive 5+",
   "main": "index.js",
   "files": [
     "index.js",
@@ -17,12 +17,12 @@
     "access": "public"
   },
   "keywords": [
-    "dat",
-    "hyperdrive",
+    "dweb",
+    "ddrive",
     "p2p",
     "async-await"
   ],
-  "author": "GEUT",
+  "author": "PeepsLabs <peepslabs@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "fuzzbuzz": "^2.0.0",
@@ -33,7 +33,7 @@
     "temporary-directory": "^1.0.2"
   },
   "dependencies": {
-    "hyperdrive": "^10.17.0"
+    "ddrive": "^5.0.0"
   },
   "standard": {
     "env": [
