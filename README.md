@@ -6,7 +6,7 @@ An async/await based wrapper for [ddrive](https://github.com/dwebprotocol/ddrive
 ## Install
 
 ```
-$ npm install @geut/ddrive-promise
+$ npm install @dwebcore/ddrive-promise
 ```
 
 ## Usage
